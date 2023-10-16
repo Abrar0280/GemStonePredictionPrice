@@ -1,4 +1,4 @@
-# Gemstone Price Prediction - Utkarsh Gaikwad
+# Gemstone Price Prediction
 
 ### Introduction About the Data :
 
@@ -32,10 +32,6 @@ Dataset Source Link :
 # AWS Deployment Link :
 
 AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
-
-# Screenshot of UI
-
-![HomepageUI](./Screenshots/HomepageUI.jpg)
 
 # YouTube Video Link
 
